@@ -1,0 +1,2 @@
+This project was created with team member Justin Brysch for CSCE 121.
+This is a GUI program for restaurants. The server may create an order and click to order menu items the ingredients and cooking instructions for an order item may also be looked up. 
